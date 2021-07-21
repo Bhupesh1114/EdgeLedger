@@ -1,0 +1,48 @@
+/* Navbar */
+
+
+#navbar{
+    flex-direction: column;
+    align-items: center;
+}
+
+#navbar .logo{
+    margin-bottom: 20px;
+}
+
+
+/* Showcase */
+
+#showcase .showcase-content{
+text-align: center;
+margin-top: -60px;
+}
+
+/* Section What We Do */
+
+#what .items{
+    flex-direction: column;
+
+}
+
+/* Section: Who We Are */
+#who .who-img{
+    display: none;
+}
+
+#clients .items img{
+    width: 80%;
+}
+
+#clients .items div:last-child{
+    display: none;
+}
+
+#contact{
+    display: block;
+}
+
+#contact .map{
+    height: 200px;
+}
+
