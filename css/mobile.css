@@ -46,3 +46,8 @@ margin-top: -60px;
     height: 200px;
 }
 
+/* Footer */
+
+#main-footer .container p{
+    font-size: 13px;
+}
